@@ -30,7 +30,7 @@
     "get-uv-event-loop-napi-h": "^1.0.6",
     "node-addon-api": "^8.2.1",
     "node-gyp-build": "^4.8.2",
-    "ref-napi": "https://github.com/btsimonh/ref-napi.gi",
+    "ref-napi": "https://github.com/btsimonh/ref-napi.git",
     "ref-struct-di": "https://github.com/node-ffi-napi/ref-struct-di.git"
   },
   "devDependencies": {
